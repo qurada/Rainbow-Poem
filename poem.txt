@@ -4,6 +4,7 @@ yellow
 orange
 blue
 green
+fahmi
 unicorn
 red
 these are the coulrs of rainbow
