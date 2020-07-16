@@ -2,5 +2,6 @@ publid
 pink
 orange
 blue
+green
 red
 these are the coulrs of rainbow
